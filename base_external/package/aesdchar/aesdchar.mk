@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESDCHAR_VERSION = 95f775690eaba7a5833d9f07075be1a0138d0009
+AESDCHAR_VERSION = 1e0e3f76f566b39784bd851cebbb52e11216e4d8
 AESDCHAR_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-Suhas-Reddy-S.git
 AESDCHAR_SITE_METHOD = git
 AESDCHAR_GIT_SUBMODULES = YES
